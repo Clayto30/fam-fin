@@ -1,4 +1,4 @@
-# Family Financials Application
+# Family Financial Application
 
 ## Description
 A long term investment app built for families and for each of the families to pool their money together and to invest together.  This will help families realize the benefit of long term investment, especially for those of younger age.  
@@ -21,8 +21,7 @@ As a user and a parent, I'd like to use an investment app that would allow me to
 ![](./public/assets/img/FamilyFinancials_HomePage.png)
 
 ## GitHub Repository
-Code repository location is at the following link:  
-https://github.com/htang2021/famfin
+[Code repository](https://github.com/Clayto30/famfin)
 
 ## Application Deployment
 Application is deployed to Heroku:  
